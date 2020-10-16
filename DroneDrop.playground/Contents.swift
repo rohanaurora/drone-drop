@@ -1,3 +1,6 @@
+// Example on how to write a smart contract in Swift
+
+
 import Cocoa
 import CoreLocation
 
